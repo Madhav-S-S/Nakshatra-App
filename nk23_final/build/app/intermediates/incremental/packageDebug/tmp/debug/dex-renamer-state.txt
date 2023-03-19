@@ -1,0 +1,4 @@
+#Thu Mar 16 01:17:01 IST 2023
+base.0=C\:\\Users\\madha\\Downloads\\nakshatra_nik\\nk23_final\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

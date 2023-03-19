@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\mipmap-xxhdpi_nk_icon.png.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\mipmap-xxhdpi\\nk_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\mipmap-mdpi_nk_icon.png.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\mipmap-mdpi\\nk_icon.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\mipmap-hdpi_nk_icon.png.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\mipmap-hdpi\\nk_icon.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.nk23_final.app-pngs-23:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\mipmap-xhdpi_nk_icon.png.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\mipmap-xhdpi\\nk_icon.png"
+    },
+    {
+        "merged": "com.example.nk23_final.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nk23_final.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-merged_res-28:\\mipmap-xxxhdpi_nk_icon.png.flat",
+        "source": "C:\\Users\\madha\\.gradle\\daemon\\7.5\\com.example.nk23_final.app-main-22:\\mipmap-xxxhdpi\\nk_icon.png"
+    }
+]
